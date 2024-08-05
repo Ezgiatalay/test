@@ -6,3 +6,6 @@ git branch -M main
 git remote add origin https://github.com/IstkaFullData/Test2.git
 git push -u origin main
 
+git add dosyaadi.txt
+git commit -m "first commit"
+git push -u origin main
